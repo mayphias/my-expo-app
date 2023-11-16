@@ -1,0 +1,13 @@
+{
+  "name": "PI",
+  "version": "1.0.0",
+  "description": "Projeto Integrador",
+  "main": "index.js",
+  "author": "Mayphias",
+  "license": "MIT",
+  "dependencies": {
+    "@react-native-google-signin/google-signin": "^10.1.0",
+    "eas-cli": "^5.8.0",
+    "expo-application": "^5.4.0"
+  }
+}
